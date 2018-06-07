@@ -140,9 +140,10 @@ Note: The time zones indicate which time zone that server will send date propert
 [Official Source](https://developer.riotgames.com/docs/spectating-games)
 
 ## Sources
-
 * https://github.com/robertabcd/lol-ob/issues/2#issuecomment-25749662
 * https://gist.github.com/lukegb/d2997a5fc7970ce6e1e1
 * https://github.com/robertabcd/lol-ob/wiki/ROFL-Container-Notes
 * https://github.com/robertabcd/lol-ob/blob/master/rofl.rb
+* https://gist.github.com/themasch/8375971
 * https://gist.github.com/aj-r/788b9abcde6afdf527c1
+* https://gist.github.com/Aztorius/e428be6515b19fd24823754b72038e1b
